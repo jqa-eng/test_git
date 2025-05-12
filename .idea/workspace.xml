@@ -26,7 +26,7 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "<未知>",
     "last_opened_file_path": "D:/git_project/test_code",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -107,7 +107,7 @@
       <option name="presentableId" value="Default" />
       <updated>1747037850652</updated>
       <workItem from="1747037851838" duration="3680000" />
-      <workItem from="1747043055423" duration="3134000" />
+      <workItem from="1747043055423" duration="3609000" />
     </task>
     <servers />
   </component>
